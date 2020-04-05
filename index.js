@@ -1,3 +1,4 @@
+import * as THREE from './three.module.js';
 import { VRButton } from './VRButton.js';
 
 class Main {
