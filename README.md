@@ -1,2 +1,2 @@
-# getting_started_with_webxr_part_2
-Finishes code for Tutorial
+# Getting Started With WebXR Part 2 - VR Sessions
+Finished code for Tutorial
