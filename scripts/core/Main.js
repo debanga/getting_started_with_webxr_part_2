@@ -1,5 +1,5 @@
-import * as THREE from './three.module.js';
-import { VRButton } from './VRButton.js';
+import * as THREE from '../three/build/three.module.js';
+import { VRButton } from '../three/examples/jsm/webxr/VRButton.js';
 
 export default class Main {
     constructor() {
